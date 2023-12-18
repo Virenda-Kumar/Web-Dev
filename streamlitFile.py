@@ -5,11 +5,6 @@ import streamlit.components.v1 as components
 # >>> fig = px.box(range(10))
 # >>> fig.write_html('test.html')
 
-st.write("""
-# My first app
-Hello *world!*
-Hynnah Baker 
-""")
 
 st.header("test html import")
 
